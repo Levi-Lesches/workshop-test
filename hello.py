@@ -5,3 +5,5 @@ print("This is branch2")
 
 print("Hello from Git!")
 print("Hello from GitHub")
+
+print("This is a new branch")
