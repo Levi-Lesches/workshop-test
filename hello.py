@@ -7,3 +7,4 @@ print("Hello from Git!")
 print("Hello from GitHub")
 
 print("This is a new branch")
+print("This is to solve an issue")
